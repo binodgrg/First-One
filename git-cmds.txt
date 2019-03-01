@@ -1,0 +1,15 @@
+git remote -v (shows origins)
+
+git branch -a (shows all branches)
+
+git fetch (clones remote)
+
+git checkout -b <localbranchName>
+
+git status (check status)
+
+git add . (stages files for commit)
+
+git commit -m 'test commit'
+
+git push origin <localBranchName>
